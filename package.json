@@ -11,6 +11,7 @@
   "dependencies": {
     "@supabase/ssr": "^0.5.2",
     "@supabase/supabase-js": "^2.93.1",
+    "@napi-rs/canvas": "file:./stubs/napi-rs-canvas",
     "next": "16.1.4",
     "pdf-parse": "^2.4.5",
     "pdfjs-dist": "5.4.296",
